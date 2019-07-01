@@ -1,1 +1,2 @@
-echo "WTF TEST!!!"
+echo "TEST!!!"
+echo "Test succee!"
