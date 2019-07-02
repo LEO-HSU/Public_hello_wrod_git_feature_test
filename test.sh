@@ -1,2 +1,2 @@
-echo "TEST!!!"
+echo "TEST!!"
 echo "Test succee!"
