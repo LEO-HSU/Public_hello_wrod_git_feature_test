@@ -1,2 +1,2 @@
-echo "Dogy DOGY!!!"
-echo "Woof Woof!"
+echo "Who let the DOG out!!!"
+echo "woof woof woof!"
